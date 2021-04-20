@@ -1,3 +1,1 @@
-# test_repo
-Testing features in GitHub.
-READ ME FILE 
+Crud app for book manager
